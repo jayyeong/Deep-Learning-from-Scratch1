@@ -1,4 +1,4 @@
-# Deep-Learning-from-Scratch1 (짝수팁)
+# Deep-Learning-from-Scratch1 (짝수팀)
 밑바닥부터 시작하는 딥러닝 1권 스터디 기간 : 23.03 ~ 23.08(예정)
 # 규칙
 1. 2주에 한번 스터디 회의 금요일 8시
